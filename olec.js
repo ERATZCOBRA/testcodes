@@ -61,9 +61,4 @@ client.once('ready', () => {
   heartbeat();
 });
 
-login();                      
-                                                                       
-☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
-
-
-*/
+login();
